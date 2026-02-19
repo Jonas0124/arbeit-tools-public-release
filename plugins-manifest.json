@@ -4,7 +4,25 @@
     "poppler": {
       "windows-x64": {
         "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/poppler-windows-x64.zip",
-        "sha256": "REPLACE_POPPLER_WINDOWS_X64_SHA256",
+        "sha256": "9499c7474e4deb41c80ef5ea4a18cc1f3843695fbfa3c247db5c46c6eab2e26f",
+        "size_bytes": 15967510,
+        "eta_seconds": 45
+      },
+      "macos-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/poppler-macos-x64.zip",
+        "sha256": "REPLACE_POPPLER_MACOS_X64_SHA256",
+        "size_bytes": 50000000,
+        "eta_seconds": 60
+      },
+      "macos-arm64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/poppler-macos-arm64.zip",
+        "sha256": "REPLACE_POPPLER_MACOS_ARM64_SHA256",
+        "size_bytes": 50000000,
+        "eta_seconds": 60
+      },
+      "linux-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/poppler-linux-x64.tar.gz",
+        "sha256": "REPLACE_POPPLER_LINUX_X64_SHA256",
         "size_bytes": 50000000,
         "eta_seconds": 60
       }
@@ -12,7 +30,25 @@
     "libreoffice": {
       "windows-x64": {
         "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/libreoffice-windows-x64.zip",
-        "sha256": "REPLACE_LIBREOFFICE_WINDOWS_X64_SHA256",
+        "sha256": "9458d78c4b31a0892a3f5cc138959c2caefd66403c909d3d98c97453c424962d",
+        "size_bytes": 305207081,
+        "eta_seconds": 240
+      },
+      "macos-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/libreoffice-macos-x64.zip",
+        "sha256": "REPLACE_LIBREOFFICE_MACOS_X64_SHA256",
+        "size_bytes": 400000000,
+        "eta_seconds": 300
+      },
+      "macos-arm64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/libreoffice-macos-arm64.zip",
+        "sha256": "REPLACE_LIBREOFFICE_MACOS_ARM64_SHA256",
+        "size_bytes": 400000000,
+        "eta_seconds": 300
+      },
+      "linux-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.4/libreoffice-linux-x64.tar.gz",
+        "sha256": "REPLACE_LIBREOFFICE_LINUX_X64_SHA256",
         "size_bytes": 400000000,
         "eta_seconds": 300
       }
