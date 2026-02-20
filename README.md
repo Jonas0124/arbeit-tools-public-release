@@ -27,8 +27,8 @@
 3. 打 tag 并推送：
 
 ```bash
-git tag v1.1.0
-git push origin v1.1.0
+git tag v1.0.0
+git push origin v1.0.0
 ```
 
 4. 等待 GitHub Actions：`Build & Release Desktop`。
@@ -81,11 +81,11 @@ $File = ".\\poppler-windows-x64.zip"
 
 ```json
 {
-  "version": "v1.1.0",
+  "version": "v1.0.0",
   "plugins": {
     "poppler": {
       "windows-x64": {
-        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.1.0/poppler-windows-x64.zip",
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/poppler-windows-x64.zip",
         "sha256": "<64-hex>",
         "size_bytes": 15967510,
         "eta_seconds": 45
