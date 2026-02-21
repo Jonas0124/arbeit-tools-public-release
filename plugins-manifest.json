@@ -52,6 +52,58 @@
         "size_bytes": 286200324,
         "eta_seconds": 260
       }
+    },
+    "tesseract": {
+      "linux-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-linux-x64.tar.gz",
+        "sha256": "a13e20f50f3f29c7f04e064b05e1809dfeda6021ea25a8b24499dd9138f9d521",
+        "size_bytes": 231252525,
+        "eta_seconds": 180
+      },
+      "windows-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-windows-x64.zip",
+        "sha256": "1ec5ecd1ec35f016c92a2212bf6900ede8bf8523f25ab9f7bff1dd15ccb616c2",
+        "size_bytes": 229242537,
+        "eta_seconds": 180
+      },
+      "macos-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-macos-x64.zip",
+        "sha256": "0b19f1ab5888e2eefd3751cd4e492ae6b1fd0e892d6335e2eff1e8a0a51027d4",
+        "size_bytes": 263511473,
+        "eta_seconds": 180
+      },
+      "macos-arm64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-macos-arm64.zip",
+        "sha256": "053a3ebbb3f930f84c810b57f485768987517af8d876cf753965184c3f0bd158",
+        "size_bytes": 262452832,
+        "eta_seconds": 180
+      }
+    },
+    "tesseract_lang": {
+      "linux-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-linux-x64.tar.gz",
+        "sha256": "a13e20f50f3f29c7f04e064b05e1809dfeda6021ea25a8b24499dd9138f9d521",
+        "size_bytes": 231252525,
+        "eta_seconds": 180
+      },
+      "windows-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-windows-x64.zip",
+        "sha256": "1ec5ecd1ec35f016c92a2212bf6900ede8bf8523f25ab9f7bff1dd15ccb616c2",
+        "size_bytes": 229242537,
+        "eta_seconds": 180
+      },
+      "macos-x64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-macos-x64.zip",
+        "sha256": "0b19f1ab5888e2eefd3751cd4e492ae6b1fd0e892d6335e2eff1e8a0a51027d4",
+        "size_bytes": 263511473,
+        "eta_seconds": 180
+      },
+      "macos-arm64": {
+        "url": "https://github.com/Jonas0124/arbeit-tools-public-release/releases/download/v1.0.0/tesseract-macos-arm64.zip",
+        "sha256": "053a3ebbb3f930f84c810b57f485768987517af8d876cf753965184c3f0bd158",
+        "size_bytes": 262452832,
+        "eta_seconds": 180
+      }
     }
   }
 }
